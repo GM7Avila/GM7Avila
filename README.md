@@ -1,9 +1,9 @@
 ### Olá, me chamo Guilherme Medeiros Avila! 👋
 
-🌎WEB DEV: Estou atualmente estudando CSS e JAVA Script
-💻Programação: Programando e Aprendendo JAVA (POO)
-🎓Ciência da Computação (em andamento)
-🌱Aprendendo e evoluindo... 
+<p>🌎WEB DEV: Estou atualmente estudando CSS e JAVA Script</p>
+<p>💻Programação: Programando e Aprendendo JAVA (POO)</p>
+<p>🎓Ciência da Computação (em andamento)</p>
+<p>🌱Aprendendo e evoluindo...</p>
 
 <div align="center">
   <a href="https://github.com/GM7Avila">
