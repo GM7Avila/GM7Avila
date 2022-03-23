@@ -5,6 +5,9 @@
 <p>🎓Ciência da Computação (em andamento)</p>
 <p>🌱Aprendendo e evoluindo...</p>
 
+<br>
+
+### Status
 <div align="center">
   <a href="https://github.com/GM7Avila">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GM7Avila&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
