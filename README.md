@@ -7,7 +7,7 @@
 <p>🌱Aprendendo e evoluindo: Buscando experiência no mercado de trabalho</p>
 <p>📬 Contato: guilherme.medeiros.avila@hotmail.com</p>
 
-<br>
+##
 
 ### Status
 <div align="center">
