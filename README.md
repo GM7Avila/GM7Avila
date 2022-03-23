@@ -1,5 +1,10 @@
 ### Olá, me chamo Guilherme Medeiros Avila! 👋
 
+🌎WEB DEV: Estou atualmente estudando CSS e JAVA Script
+💻Programação: Programando e Aprendendo JAVA (POO)
+🎓Ciência da Computação (em andamento)
+🌱Aprendendo e evoluindo... 
+
 <div align="center">
   <a href="https://github.com/GM7Avila">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GM7Avila&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
