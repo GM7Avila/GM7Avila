@@ -1,4 +1,5 @@
 ### Olá, me chamo Guilherme Medeiros Avila! 👋
+<br>
 
 <p>🌎WEB DEV: Estou atualmente estudando CSS e JAVA Script</p>
 <p>💻Programação: Programando e Aprendendo JAVA (POO)</p>
