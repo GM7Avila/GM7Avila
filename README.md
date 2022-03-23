@@ -4,6 +4,7 @@
 <p>💻Programação: Programando e Aprendendo JAVA (POO)</p>
 <p>🎓Ciência da Computação (em andamento)</p>
 <p>🌱Aprendendo e evoluindo...</p>
+<p>📬 Contato: guilherme.medeiros.avila@hotmail.com</p>
 
 <br>
 
