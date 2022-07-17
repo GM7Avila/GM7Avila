@@ -2,7 +2,7 @@
 <br>
 
 <p>🌎WEB DEV: Estou atualmente estudando CSS e JAVA Script</p>
-<p>💻Programação: Programando e Aprendendo JAVA (POO) e JavaScript</p>
+<p>💻Programação: Programando e Aprendendo JAVA (POO)</p>
 <p>🎓Cursando: Ciência da Computação (2º período) </p>
 <p>🌱Aprendendo e evoluindo: Buscando experiência no mercado de trabalho</p>
 <p>📬 Contato: guilherme.medeiros.avila@hotmail.com</p>
