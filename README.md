@@ -1,4 +1,4 @@
-### Olá, me chamo Guilherme Medeiros Avila! 👋
+### Hello World! I'm Guilherme Medeiros Avila! 👋
 <br>
 
 <p>🌎WEB DEV: I'm currently studying JavaScript focusing on the backend</p>
