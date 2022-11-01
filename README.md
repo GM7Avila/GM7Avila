@@ -5,7 +5,7 @@
 <p>💻What am I learning? Programming JAVA - OOP</p>
 <p>🎓Studying Computer Science 2/8 </p>
 <p>🌱Learning and evolving: Seeking experience in the job market</p>
-<p>📬 Contact: guilherme.medeiros.avila@hotmail.com</p>
+<p>📬Contact: guilherme.medeiros.avila@hotmail.com</p>
 
 ##
 
