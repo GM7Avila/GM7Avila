@@ -1,11 +1,11 @@
 ### Olá, me chamo Guilherme Medeiros Avila! 👋
 <br>
 
-<p>🌎WEB DEV: Estou atualmente estudando JavaScript focando no backend</p>
-<p>💻Programação: Programando e Aprendendo JAVA (POO)</p>
-<p>🎓Cursando: Ciência da Computação (2º período) </p>
-<p>🌱Aprendendo e evoluindo: Buscando experiência no mercado de trabalho</p>
-<p>📬 Contato: guilherme.medeiros.avila@hotmail.com</p>
+<p>🌎WEB DEV: I'm currently studying JavaScript focusing on the backend</p>
+<p>💻What am I learning? Programming JAVA - OOP</p>
+<p>🎓Studying Computer Science 2/8 </p>
+<p>🌱Learning and evolving: Seeking experience in the job market</p>
+<p>📬 Contact: guilherme.medeiros.avila@hotmail.com</p>
 
 ##
 
