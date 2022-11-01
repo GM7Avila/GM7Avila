@@ -2,7 +2,7 @@
 <br>
 
 <p>🌎WEB DEV: I'm currently studying JavaScript focusing on the backend</p>
-<p>💻What am I learning? Programming JAVA and JS</p>
+<p>💻What am I learning? Programming JAVA and working with JS frameworks</p>
 <p>🎓Studying Computer Science 2/8 </p>
 <p>🌱Learning and evolving: Seeking experience in the job market</p>
 <p>📬Contact: guilherme.medeiros.avila@hotmail.com</p>
