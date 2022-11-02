@@ -1,4 +1,5 @@
 ### Hello World! I'm Guilherme Medeiros Avila! 👋
+#### from Rio
 <br>
 
 <p>🌎WEB DEV: I'm currently studying JavaScript focusing on the backend</p>
