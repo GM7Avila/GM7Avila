@@ -1,8 +1,10 @@
 <img align="right" height="580em" src="https://raw.githubusercontent.com/gist/GM7Avila/7c6c57357cbbe47bfff857012c60a448/raw/5b3d25bbe0809b3e90fc5bec17aa07d47fcbac3b/profilecard.svg"/>
 <h1 align="left">Hello World <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" height="30px">, I'm Guilherme Avila</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GM7Avila&color=yellow" alt="Profile views" /> </p>
 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1ae004&size=15&center=true&vCenter=true&width-=400&lines=Welcome+to+my+profile!;I'm+from+Brasil,+Rio+de+Janeiro;Veiga+de+Almeida+University;Studying+Computer+Science!%20)](https://git.io/typing-svg)
+
 
 - 👨‍💻 I'm pursuing a Bachelor's degree in Computer Science, currently in the 3rd semester.
 
@@ -16,7 +18,7 @@
 
 
 
-<br><br><br><br>
+<br><br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -35,9 +37,6 @@
 
 
 
-
-
-
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -49,6 +48,7 @@
 
 
 <br><br>
+
 
 ## Contact
 
