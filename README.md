@@ -2,9 +2,11 @@
 <h1 align="left">Hello World <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" height="30px">, I'm Guilherme Avila</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GM7Avila&color=yellow" alt="Profile views" /> </p>
 
+<br>
+
 - 👨‍💻 I'm pursuing a Bachelor's degree in Computer Science, currently in the 3rd semester.
 
-- 🔭 Currently, I am participating in the [RMAX](https://github.com/RMax-UVA) and seeking opportunities in the job market.
+- 🔭 Currently, I am participating in the [RMAX](https://github.com/RMax-UVA) project, and seeking opportunities in the job market.
 
 - 💬 I enjoy discussing topics related to **computer theory, new technologies, artificial intelligence, and hip-hop**, you can follow me on [Twitter](https://twitter.com/gavila_dev).
 
