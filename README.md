@@ -1,4 +1,4 @@
-<img align="right" height="480em" src="https://raw.githubusercontent.com/gist/GM7Avila/7c6c57357cbbe47bfff857012c60a448/raw/5b3d25bbe0809b3e90fc5bec17aa07d47fcbac3b/profilecard.svg"/>
+<img align="right" height="580em" src="https://raw.githubusercontent.com/gist/GM7Avila/7c6c57357cbbe47bfff857012c60a448/raw/5b3d25bbe0809b3e90fc5bec17aa07d47fcbac3b/profilecard.svg"/>
 <h1 align="left">Hello World <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" height="30px">, I'm Guilherme Avila</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GM7Avila&color=yellow" alt="Profile views" /> </p>
 
