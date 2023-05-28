@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GM7Avila&color=yellow" alt="Profile views" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1ae004&size=18&center=true&vCenter=true&width=600&lines=Hello+world!;Welcome+to+my+profile!;I'm+from+Brasil,+Rio+de+Janeiro;Veiga+de+Almeida+University;Studying+Computer+Science!%20)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1ae004&size=18&center=true&vCenter=true&width=500&lines=Hello+world!;Welcome+to+my+profile!;I'm+from+Brasil,+Rio+de+Janeiro;Veiga+de+Almeida+University;Studying+Computer+Science!%20)](https://git.io/typing-svg) 
 
 
 - 👨‍💻 I'm pursuing a Bachelor's degree in Computer Science, currently in the 3rd semester.
