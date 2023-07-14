@@ -24,7 +24,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1f1f1f?style=flat-square&logo=javascript)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-1f1f1f?style=flat-square&logo=node.js)&nbsp;
-![NestJS](https://img.shields.io/badge/-NestJS-cf0404?style=flat-square&logo=nestjs)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=CSS3&logoColor=FF8C00)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-ab3402?style=flat-square&logo=java)&nbsp;
