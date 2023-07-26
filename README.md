@@ -33,6 +33,7 @@
 ![C++](https://img.shields.io/badge/-C++-0251ab?style=flat&logo=C++&logoColor=add8e6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-007396?style=flat-square&logo=git)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-242424?style=flat-square&logo=linux)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-007396?style=flat-square&logo=git)&nbsp;
 ![Windwos](https://img.shields.io/badge/-Windows-242424?style=flat-square&logo=windows)&nbsp;
 
 
