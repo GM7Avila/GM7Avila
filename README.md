@@ -1,18 +1,14 @@
-<img align="right" height="580em" src="https://raw.githubusercontent.com/gist/GM7Avila/7c6c57357cbbe47bfff857012c60a448/raw/5b3d25bbe0809b3e90fc5bec17aa07d47fcbac3b/profilecard.svg"/>
 <h1 align="left">Hello World <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" height="30px">, I'm Guilherme Avila</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GM7Avila&color=yellow" alt="Profile views" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1ae004&size=18&center=true&vCenter=true&lines=Hello+world!;Welcome+to+my+profile!;I'm+from+Brasil,+Rio+de+Janeiro;Veiga+de+Almeida+University;Studying+Computer+Science!%20)](https://git.io/typing-svg) 
+- 👨‍💻 I'm pursuing a Bachelor's degree in Computer Science;
 
+- 🔭 Currently, I am participating in the [RMAX](https://github.com/RMax-UVA) project, and seeking opportunities in the job market;
 
-- 👨‍💻 I'm pursuing a Bachelor's degree in Computer Science, currently in the 3rd semester.
+- 💬 I enjoy discussing topics related to **computer theory, new technologies, artificial intelligence, and hip-hop**, you can follow me on [Twitter](https://twitter.com/gavila_dev);
 
-- 🔭 Currently, I am participating in the [RMAX](https://github.com/RMax-UVA) project, and seeking opportunities in the job market.
-
-- 💬 I enjoy discussing topics related to **computer theory, new technologies, artificial intelligence, and hip-hop**, you can follow me on [Twitter](https://twitter.com/gavila_dev).
-
-- 🌱 Learning and evolving: at the moment, I am focusing on continuously learning more about Java, its frameworks, and databases, to enhance my backend developer skills.
+- 🌱 Learning and evolving: at the moment, I am focusing on continuously learning more about Java, its frameworks, and databases, to enhance my backend developer skills;
 
 - 📫 Contact me: Send me an email: mederiosavila.gl@gmail.com, or send me a message on [LinkedIn](https://www.linkedin.com/in/avila-dev/)!
 
@@ -22,18 +18,12 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-1f1f1f?style=flat-square&logo=javascript)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-1f1f1f?style=flat-square&logo=node.js)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=CSS3&logoColor=FF8C00)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-ab3402?style=flat-square&logo=java)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/-Language-0299f0?style=flat-square&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-0251ab?style=flat&logo=C++&logoColor=add8e6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-007396?style=flat-square&logo=git)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-242424?style=flat-square&logo=linux)&nbsp;
-![Windwos](https://img.shields.io/badge/-Windows-242424?style=flat-square&logo=windows)&nbsp;
 
 
 
