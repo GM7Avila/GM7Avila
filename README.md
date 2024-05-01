@@ -19,7 +19,6 @@
 ![Java](https://img.shields.io/badge/-Java-ab3402?style=flat-square&logo=java)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/-Language-0299f0?style=flat-square&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/-C++-0251ab?style=flat&logo=C++&logoColor=add8e6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-007396?style=flat-square&logo=git)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-242424?style=flat-square&logo=linux)&nbsp;
 
