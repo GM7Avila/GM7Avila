@@ -4,27 +4,20 @@
 
 - 🔭 Currently, I am participating in the [RMAX](https://github.com/RMax-UVA) project, and seeking opportunities in the job market;
 
-- 💬 I enjoy discussing topics related to **computer theory, new technologies, artificial intelligence, and hip-hop**, you can follow me on [Twitter](https://twitter.com/gavila_dev);
-
-- 🌱 Learning and evolving: at the moment, I am focusing on continuously learning more about Java, its frameworks, and databases, to enhance my backend developer skills;
-
 - 📫 Contact me: Send me an email: mederiosavila.gl@gmail.com, or send me a message on [LinkedIn](https://www.linkedin.com/in/avila-dev/)!
 
-
-
-<br><br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-ab3402?style=flat-square&logo=java)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/-Language-0299f0?style=flat-square&logo=c&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-007396?style=flat-square&logo=git)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-242424?style=flat-square&logo=linux)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0F161B?style=flat-square&logo=java)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-0F161B?style=flat-square&logo=spring&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/-Language-0F161B?style=flat-square&logo=c&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0F161B?style=flat-square&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0F161B?style=flat-square&logo=docker)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0F161B?style=flat-square&logo=linux)&nbsp;
 
-
-
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -34,7 +27,7 @@
 </p>
 
 
-<br><br>
+<br>
 
 
 ## Contact
