@@ -6,19 +6,6 @@
 
 - 📫 Contact me: Send me an email: mederiosavila.gl@gmail.com, or send me a message on [LinkedIn](https://www.linkedin.com/in/avila-dev/)!
 
-<br>
-
-## 🛠 &nbsp;Tech Stack
-
-![Java](https://img.shields.io/badge/-Java-0F161B?style=flat-square&logo=java)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-0F161B?style=flat-square&logo=spring&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/-Language-0F161B?style=flat-square&logo=c&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0F161B?style=flat-square&logo=git)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0F161B?style=flat-square&logo=docker)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0F161B?style=flat-square&logo=linux)&nbsp;
-
-<br>
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
@@ -26,18 +13,12 @@
 <img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GM7Avila&layout=compact&theme=nord" alt="Avila's most languages"/>
 </p>
 
+## 🛠 &nbsp;Tech Stack
 
-<br>
-
-
-## Contact
-<p>
-<a href="https://www.linkedin.com/in/avila-dev/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Linkedin-033c96?style=flat-square&logo=linkedin&logoColor=white";
- alt="Linkedin"/>
-</a>
-<a href="https://www.instagram.com/avila_developer/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Instagram-ba1a5f?style=flat-square&logo=instagram&logoColor=white";
- alt="instagram"/>
-</a>
-</p>
+![Spring](https://img.shields.io/badge/-Spring-0F161B?style=flat-square&logo=spring&logoColor=green)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-0F161B?style=flat-square&logo=flask&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0F161B?style=flat-square&logo=mysql&logoColor=blue)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0F161B?style=flat-square&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0F161B?style=flat-square&logo=docker)&nbsp;
+![C](https://img.shields.io/badge/-Language-0F161B?style=flat-square&logo=c&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0F161B?style=flat-square&logo=linux)&nbsp;
