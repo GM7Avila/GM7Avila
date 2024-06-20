@@ -1,7 +1,7 @@
 <h1 align="left">Hello World <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" height="30px">, I'm Guilherme Avila</h1>
 
-- 👨‍💻 I'm pursuing a Bachelor's degree in Computer Science;
-
+- 🎓 I'm pursuing a Bachelor's degree in Computer Science;
+  
 - 🔭 Currently, I am participating in the [RMAX](https://github.com/RMax-UVA) project, and seeking opportunities in the job market;
 
 - 📫 Contact me: Send me an email: mederiosavila.gl@gmail.com, or send me a message on [LinkedIn](https://www.linkedin.com/in/avila-dev/)!
