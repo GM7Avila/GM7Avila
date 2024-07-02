@@ -16,6 +16,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![Spring](https://img.shields.io/badge/-Spring-2e3440?style=flat-square&logo=spring&logoColor=green)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-2e3440?style=flat-square&logo=kotlin)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-2e3440?style=flat-square&logo=flask&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-2e3440?style=flat-square&logo=mysql&logoColor=blue)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-2e3440?style=flat-square&logo=git)&nbsp;
