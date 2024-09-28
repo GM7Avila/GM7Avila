@@ -15,11 +15,11 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Spring](https://img.shields.io/badge/-Spring-2e3440?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-2e3440?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/-Django-2e3440?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2e3440?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-2e3440?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-2e3440?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/-Language-2e3440?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-2e3440?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-2e3440?style=flat&logo=spring&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-2e3440?style=flat&logo=kotlin&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/-Django-2e3440?style=flat&logo=django&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2e3440?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-2e3440?style=flat&logo=git&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2e3440?style=flat&logo=docker&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/-Language-2e3440?style=flat&logo=c&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-2e3440?style=flat&logo=linux&logoColor=white)&nbsp;
