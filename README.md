@@ -2,7 +2,7 @@
 
 - I'm pursuing a Bachelor's degree in Computer Science;
   
-- Currently, I am participating in the [FuzzyLabs](https://github.com/FuzzyLab-UVA) project, and seeking opportunities in the job market;
+- Currently, I am participating in the [FuzzyLab](https://github.com/FuzzyLab-UVA) project, and seeking opportunities in the job market;
 
 - Contact me: Send me an email: mederiosavila.gl@gmail.com, or send me a message on [LinkedIn](https://www.linkedin.com/in/avila-dev/)!
 
