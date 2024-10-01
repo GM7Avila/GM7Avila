@@ -4,7 +4,7 @@
   
 - Currently, I am contributing to the FuzzyLab project and actively seeking opportunities in the job market.
 
-- Contact me: Send me an email: mederiosavila.gl@gmail.com, or send me a message on [LinkedIn](https://www.linkedin.com/in/avila-dev/)!
+- Contact me: Send me an email: medeirosavila.gl@gmail.com, or send me a message on [LinkedIn](https://www.linkedin.com/in/avila-dev/)!
 
 ## ⚙️ &nbsp;GitHub Analytics
 
