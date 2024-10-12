@@ -16,7 +16,8 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![Spring](https://img.shields.io/badge/-Spring-2e3440?style=flat&logo=spring&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-2e3440?style=flat&logo=kotlin&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-2e3440?style=flat&logo=&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-2e3440?style=flat&logo=react&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-2e3440?style=flat&logo=django&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2e3440?style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-2e3440?style=flat&logo=git&logoColor=white)&nbsp;
