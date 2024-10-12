@@ -23,4 +23,4 @@
 ![Git](https://img.shields.io/badge/-Git-2e3440?style=flat&logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-2e3440?style=flat&logo=docker&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/-Language-2e3440?style=flat&logo=c&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-2e3440?style=flat&logo=linux&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux/Debian-2e3440?style=flat&logo=debian&logoColor=white)&nbsp;
