@@ -9,8 +9,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="470em" src="https://github-readme-stats.vercel.app/api?username=GM7Avila&show_icons=true&theme=nord" alt="Avila's stats"/>
-<img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GM7Avila&layout=compact&theme=nord" alt="Avila's most languages"/>
+<img width="470em" src="https://github-readme-stats.vercel.app/api?username=GM7Avila&show_icons=true&theme=nord&hide=jupyter%20notebook" alt="Avila's stats"/>
+<img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GM7Avila&layout=compact&theme=nord&hide=jupyter%20notebook" alt="Avila's most languages"/>
 </p>
 
 ## 🛠 &nbsp;Tech Stack
