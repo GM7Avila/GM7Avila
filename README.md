@@ -2,13 +2,16 @@
    <h2>Tecnologias e Ferramentas</h2>
   <div class="badges">
     <img src="https://img.shields.io/badge/Spring-2e3440?style=flat&logo=spring&logoColor=white" alt="Spring">
-    <img src="https://img.shields.io/badge/.NET-2e3440?style=flat&logo=.net&logoColor=white" alt=".NET">
+    <img src="https://img.shields.io/badge/ASP.NET-2e3440?style=flat&logo=.net&logoColor=white" alt=".NET">
     <img src="https://img.shields.io/badge/React-2e3440?style=flat&logo=react&logoColor=white" alt="React">
     <img src="https://img.shields.io/badge/Django-2e3440?style=flat&logo=django&logoColor=white" alt="Django">
     <img src="https://img.shields.io/badge/PostgreSQL-2e3440?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/MongoDB-2e3440?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
     <img src="https://img.shields.io/badge/Git-2e3440?style=flat&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Docker-2e3440?style=flat&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/C-2e3440?style=flat&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/Kafka-2e3440?style=flat&logo=apache&logoColor=white" alt="Kafka">
+    <img src="https://img.shields.io/badge/AWS-2e3440?style=flat&logo=aws&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/C++-2e3440?style=flat&logo=cpp&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/Linux/Debian-2e3440?style=flat&logo=debian&logoColor=white" alt="Linux">
   </div>
 
