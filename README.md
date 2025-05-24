@@ -1,25 +1,25 @@
  <h1>Guilherme Medeiros Avila</h1>
    <h2>Tecnologias e Ferramentas</h2>
   <div class="badges">
-    <img src="https://img.shields.io/badge/Spring-2e3440?style=flat&logo=spring&logoColor=white" alt="Spring">
     <img src="https://img.shields.io/badge/ASP.NET-2e3440?style=flat&logo=.net&logoColor=white" alt=".NET">
+    <img src="https://img.shields.io/badge/Spring-2e3440?style=flat&logo=spring&logoColor=white" alt="Spring">
     <img src="https://img.shields.io/badge/React-2e3440?style=flat&logo=react&logoColor=white" alt="React">
-    <img src="https://img.shields.io/badge/Django-2e3440?style=flat&logo=django&logoColor=white" alt="Django">
     <img src="https://img.shields.io/badge/PostgreSQL-2e3440?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/MongoDB-2e3440?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/Python-2e3440?style=flat&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Git-2e3440?style=flat&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Docker-2e3440?style=flat&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Kafka-2e3440?style=flat&logo=apache&logoColor=white" alt="Kafka">
-    <img src="https://img.shields.io/badge/AWS-2e3440?style=flat&logo=aws&logoColor=white" alt="AWS">
-    <img src="https://img.shields.io/badge/C++-2e3440?style=flat&logo=cpp&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/Linux/Debian-2e3440?style=flat&logo=debian&logoColor=white" alt="Linux">
   </div>
 
-  <h2>GitHub Analytics</h2>
-  <div class="analytics">
-    <img src="https://github-readme-stats.vercel.app/api?username=GM7Avila&show_icons=true&theme=nord&hide=jupyter%20notebook" alt="Estatísticas do GitHub">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GM7Avila&layout=compact&theme=nord&hide=jupyter%20notebook" alt="Principais linguagens">
-  </div>
+<!--
+<h2>GitHub Analytics</h2>
+<div class="analytics">
+  <img src="https://github-readme-stats.vercel.app/api?username=GM7Avila&show_icons=true&theme=nord&hide=jupyter%20notebook" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GM7Avila&layout=compact&theme=nord&hide=jupyter%20notebook" alt="Principais linguagens">
+</div>
+-->
+
 
   <h2>Formação Acadêmica</h2>
   <ul>
