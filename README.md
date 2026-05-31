@@ -32,7 +32,7 @@ Escola Técnica Pandiá Calógeras, VR-RJ — 2017–2019
 
 <div align="center">
 
-## Experiência Profissional
+## Experiência
 
 **Desenvolvedor Full-Stack ASP.NET/React**  
 1500fh Consultoria | 2025  
