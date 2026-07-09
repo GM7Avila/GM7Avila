@@ -37,11 +37,11 @@ Escola Técnica Pandiá Calógeras, VR-RJ — 2017–2019
 **Desenvolvedor Full-Stack ASP.NET/React**  
 1500fh Consultoria | 2025  
 
-**Iniciação Científica ML (2025)**  
 [Subsidence Analysis in Buried Pipelines Due to Fluid Leakage: Numerical Modeling and ML](https://publicacoes.softaliza.com.br/cilamce-2025/article/view/14429)
+Iniciação Científica - UVA, RJ | 2025-2026
 
 **Fullstack Dev + Machine Learning**  
-Fuzzylab (Software House) | 2024–2025  
+Fuzzylab - UVA, RJ | 2024–2025  
 
 **RMAX – Desenvolvedor Backend (Spring Boot)**  
 Desenvolvedor Backend Java (Spring Boot) | 2022–2023  
