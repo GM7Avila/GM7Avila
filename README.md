@@ -55,7 +55,7 @@ Desenvolvedor Backend Java (Spring Boot) | 2022–2023
 
 <br>
 
-<a href="https://www.linkedin.com/in/avila-dev/">LinkedIn</a> |
+<a href="linkedin.com/in/guilherme-medeiros-avila">LinkedIn</a> |
 <a href="https://gm7avila.netlify.app/">Portfólio</a>
 
 </div>
