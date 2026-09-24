@@ -2,15 +2,15 @@
 
 # Guilherme Medeiros Avila
 
-<img src="https://img.shields.io/badge/ASP.NET-2e3440?style=flat&logo=.net&logoColor=white" alt=".NET"/>
-<img src="https://img.shields.io/badge/Spring-2e3440?style=flat&logo=spring&logoColor=white" alt="Spring"/>
+<img src="https://img.shields.io/badge/ASP.NET%20%2F%20C%23-2e3440?style=flat&logo=.net&logoColor=white" alt="ASP.NET"/>
 <img src="https://img.shields.io/badge/React-2e3440?style=flat&logo=react&logoColor=white" alt="React"/>
-<img src="https://img.shields.io/badge/PostgreSQL-2e3440?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-2e3440?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Spring-2e3440?style=flat&logo=spring&logoColor=white" alt="Spring"/>
 <img src="https://img.shields.io/badge/Python-2e3440?style=flat&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Git-2e3440?style=flat&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/PostgreSQL-2e3440?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/RabbitMQ-2e3440?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
 <img src="https://img.shields.io/badge/Docker-2e3440?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Linux/Debian-2e3440?style=flat&logo=debian&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/Linux-2e3440?style=flat&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/Git-2e3440?style=flat&logo=git&logoColor=white" alt="Git"/>
 
 </div>
 
